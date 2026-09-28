@@ -8,7 +8,7 @@ An enterprise-grade relational database design and analytical interrogation syst
 
 Managing clinical and administrative healthcare data demands zero compromise on data integrity, traceability, and operational efficiency. This project implements an 8-table relational schema designed to eliminate anomalies and support complex clinical/financial analytics.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 - **Database Engine:** MySQL 8.0
 - **Design & GUI Tool:** MySQL Workbench
 - **Modeling Standards:** Third Normal Form (3NF), Foreign Key Constraints & Referential Integrity
